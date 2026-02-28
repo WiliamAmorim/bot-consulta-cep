@@ -1,0 +1,5 @@
+.env
+app/logs/
+__pycache__/
+.dockerignore
+documentacao
